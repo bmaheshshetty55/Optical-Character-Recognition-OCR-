@@ -1,0 +1,1 @@
+In the current case, Tabula performed better than Tesseract OCR, as it accurately preserved the table structure from the PDF. Since the PDFs contained selectable text, Tabula was the more effective tool for extracting tables.
